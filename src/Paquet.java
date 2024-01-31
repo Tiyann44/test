@@ -30,4 +30,6 @@ public class Paquet {
                 "listedecarte=" + listedecarte +
                 '}';
     }
+    public void haha(){}
 }
+git 
